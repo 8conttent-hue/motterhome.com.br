@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o MOTTERHOME"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "No Motter Home, damos as boas-vindas aos viajantes como se fossem da família. Com um espaço que mistura o vintage e o contemporâneo, buscamos proporcionar uma experiência única e cultural. Aproveite a arte local nas paredes, um ambiente acolhedor e a oportunidade de fazer novas amizades enquanto explora Curitiba."
+  },
+  "content": "Por que a gente diz 'Pode entrar, a casa é sua!'? Acreditamos que a escolha do lugar para se hospedar pode ser decisiva para a felicidade do viajante. Aqui no Motter Home, estamos prontos para oferecer uma experiência memorável e amigável, com um toque do espírito local de Curitiba.",
+  "mission": "Nossa missão é oferecer um lar acolhedor e cheio de energia, onde cada hóspede se sinta em casa e descubra o melhor da nossa cultura.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

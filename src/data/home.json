@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "title": "MOTTERHOME — Bem-vindo ao Motter Home!",
+    "description": "Onde a sua experiência de viagem começa com nossa hospitalidade."
+  },
+  "hero": {
+    "title": "Bem-vindo ao Motter Home!",
+    "subtitle": "Onde a sua experiência de viagem começa com nossa hospitalidade.",
+    "btnText": "Reserve sua estadia",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que oferecemos",
+    "items": [
+      {
+        "icon": "🛏️",
+        "title": "Acomodações Confortáveis",
+        "desc": "Camas king size, solteiros ou de casal, para garantir uma boa noite de sono."
+      },
+      {
+        "icon": "🍽️",
+        "title": "Ambiente Aconchegante",
+        "desc": "Converse e faça amigos na cozinha ou jogue uma sinuca no salão de estar."
+      },
+      {
+        "icon": "🚴",
+        "title": "Aventuras na Cidade",
+        "desc": "Alugue bikes e explore os pontos turísticos e a natureza ao redor de Curitiba."
+      },
+      {
+        "icon": "🎉",
+        "title": "Dicas de Diversão",
+        "desc": "Receba recomendações das melhores festas e baladas da cidade."
+      },
+      {
+        "icon": "🛒",
+        "title": "Mercearia Completa",
+        "desc": "Encontre quitutes, bebidas e souvenirs únicos da cidade."
+      },
+      {
+        "icon": "🚌",
+        "title": "Localização Privilegiada",
+        "desc": "A poucos passos do Centro Histórico e com fácil acesso ao transporte público."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre o Motter Home",
+    "desc": "No Motter Home, damos as boas-vindas aos viajantes como se fossem da família. Com um espaço que mistura o vintage e o contemporâneo, buscamos proporcionar uma experiência única e cultural. Aproveite a arte local nas paredes, um ambiente acolhedor e a oportunidade de fazer novas amizades enquanto explora Curitiba.",
+    "stats": [
+      {
+        "value": "24/7",
+        "label": "Atendimento ao Cliente"
+      },
+      {
+        "value": "50+",
+        "label": "Atrações Próximas"
+      },
+      {
+        "value": "15",
+        "label": "Minutos até o Centro Histórico"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

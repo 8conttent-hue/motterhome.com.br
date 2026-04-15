@@ -1,0 +1,53 @@
+{
+  "name": "MOTTERHOME",
+  "slug": "motterhome.com.br",
+  "description": "Por que a gente diz “Pode entrar, a casa é sua!”? Sabemos o quanto a escolha do hostel pode influenciar na experiência vivida pelo viajante. Não é mesmo? Por isso, aqui no Motter Home você curte a casa à vontade: a decoração tem um ‘quê’ de vintage, combinando com a arquitetura dos anos 1950. E ainda rolam grafites, painéis e pinturas de artistas locais pra você já ir se ambientando com o clima cultural da cidade. As amizades surgem fácil em um bate-papo na cozinha, num convite pra jogar uma sinuca, na escolha do canal pra assistir um programa de TV, tomando um sol no jardim ou logo na chegada, quando você encontra seus colegas de quarto. E digo mais, só rola gente boa por aqui! A galera do Motter Home Hostel está sempre afiada com as melhores dicas da semana e adoram te ajudar a tirar dúvidas e indicar como chegar aos pontos turísticos da cidade. Se o caso for dormir bem, nossas acomodações são super confortáveis, com camas king size, solteiro ou casal. A limpeza é um dos nossos pontos fortes. Se quiser uma dica para a noite, a gente manja das melhores festas e baladas da cidade! Para quem tem uma pegada mais aventureira, alugamos bikes, oferecemos pacotes para subir as montanhas próximas, passeios de trem para conhecer a Mata Atlântica, entre outras facilidades que você só encontra no Motter Home! Aqui também tem uma mercearia com quitutes, bebidas e produtos de higiene pessoal, além dos souvenirs mais lindos e originais da cidade. Nas redondezas você encontra restaurantes, mercados, farmácias, bancos e barzinhos. Em um raio de três quadras há várias linhas de ônibus que te levam aos mais variados lugares de Curitiba. Super fácil! O Centro Histórico, uma das regiões mais procuradas pela sua agitada vida boêmia e cultural, está apenas a 15 minutos a pé. Pode vir que a casa é sua!",
+  "url": "https://motterhome.com.br",
+  "niche": "Viagens e Turismo",
+  "keywords": "Por que a gente diz Pode entrar a casa e sua Sabemos",
+  "email": "contato@motterhome.com.br",
+  "palette": "slate",
+  "colors": {
+    "primary": "#334155",
+    "accent": "#1e293b",
+    "dark": "#0f172a"
+  },
+  "headerContrast": "dark",
+  "font": "poppins",
+  "fontFamily": "'Poppins', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-E",
+    "hero": "Hero-H",
+    "features": "Features-G",
+    "about": "About-E",
+    "posts": "Posts-G",
+    "footer": "Footer-D",
+    "sobre": "Sobre-J",
+    "contato": "Contato-F"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
